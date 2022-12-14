@@ -1,0 +1,132 @@
+body {
+    background-color: rgb(236, 236, 236);
+}
+
+.half {
+    width: 50%;
+}
+
+.quater {
+    width: 25%;
+}
+
+.bg-primary {
+    background-color: rgb(44, 135, 253);
+}
+
+.bg-success {
+    background-color: rgba(16, 252, 122);
+}
+
+.bg-dark {
+    background-color: black;
+}
+
+
+/* .text-primary {
+    color: rgb(44, 169, 253);
+} */
+
+
+/* .text-success {
+    color: rgb(44, 253, 243);
+}
+
+.text-dark {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-light {
+    color: wheat;
+}*/
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.m {
+    margin: 1em;
+}
+
+.my {
+    margin: 1em 0;
+}
+
+.mx {
+    padding: 0 1em;
+}
+
+.p {
+    padding: 1em;
+}
+
+.py {
+    padding: 1em 0;
+}
+
+.px {
+    padding: 0 1em;
+}
+
+.container {
+    width: 94%;
+    margin: 2em;
+}
+
+table {
+    /* padding: 1em; */
+    /* width: 100%; */
+}
+
+table thead {
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+/* table thead tr {
+    width: 100%;
+    padding: 10px;
+} */
+
+table tr td {
+    /* width: auto; */
+    padding: 2%;
+    margin: 1%;
+}
+
+.card {
+    background-color: white;
+    box-shadow: 2px 2px rgb(236, 236, 236, 0.5);
+    /* padding: 2px; */
+}
+
+.num {
+    font-size: 2em;
+    font-weight: bold;
+    /* padding: 1em; */
+}
+
+.opt {
+    font-weight: bold;
+    font-size: 1em;
+}
+
+.correct td {
+    /* border-bottom: green 10px solid; */
+    color: green;
+    font-weight: bold;
+    /* width: 100%; */
+}
